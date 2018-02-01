@@ -1,5 +1,5 @@
 {
-  "name": "reapop",
+  "name": "@mrlannigan/reapop",
   "version": "1.1.4",
   "description": "A React and Redux notifications system",
   "main": "lib/index.js",
